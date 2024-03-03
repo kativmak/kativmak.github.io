@@ -9,37 +9,39 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/Berlin
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Ekaterina (Katya) I. Makarenko # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+#tagline: A text-focused Jekyll theme # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Hi! I am Ekaterina (Katya) I. Makarenko and I am a PhD student in Computational Astrophysics at the 1. Institute of Physics in the University of Cologne, Germany in the group of Prof. Stefanie Walch. 
+  I do theory and simulations studying aspects of the life of massive stars on different time and space scales. 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://emakarenko.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: kativmak # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Ekaterina I. Makarenko
+  email: makarenko@p1.uni-koeln.de # change to your email address
+  orcid: "https://orcid.org/my-orcid?orcid=0000-0002-9694-1790"
+  RG: "https://www.researchgate.net/profile/Ekaterina-Makarenko-2"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    #- https://twitter.com/username # change to your twitter homepage
+    #- https://github.com/kativmak # change to your github homepage
+    #- https://www.researchgate.net/profile/Ekaterina-Makarenko-2
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -76,7 +78,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://github.com/kativmak.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -152,7 +154,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true # Enable comments in posts.
+      comments: false # Enable comments in posts.
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
