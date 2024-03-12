@@ -3,7 +3,7 @@ title: About me
 layout: page
 date: 2024-02-28 12:09:00
 categories: [Home, Intro]
-tags: [intro]     # TAG names should always be lowercase
+#tags: [intro]     # TAG names should always be lowercase
 comments: false
 pin: true
 ---
