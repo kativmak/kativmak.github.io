@@ -19,8 +19,9 @@ title: Ekaterina I. Makarenko # the main title
 #tagline: A text-focused Jekyll theme # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Hi! I am Ekaterina (Katya) I. Makarenko and I am a PhD student in Computational Astrophysics at the 1. Institute of Physics in the University of Cologne, Germany in the group of Prof. Stefanie Walch. 
-  I do theory and simulations studying aspects of the life of massive stars on different time and space scales. 
+  Welcome! I'm Ekaterina (Katya) I. Makarenko, a postdoctoral researcher at the Max Planck Institute for Extraterrestrial Physics. 
+  I study how supernova remnants and cosmic rays affect energy bidget and affect the chemistry of the interstellar medium, using
+  simulations and theory to connect models with observations.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.

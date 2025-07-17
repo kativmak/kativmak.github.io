@@ -8,8 +8,7 @@ comments: false
 pin: true
 ---
 
+Welcome! I'm Ekaterina (Katya) I. Makarenko, a postdoctoral researcher at the Max Planck Institute for Extraterrestrial Physics. I study how supernova remnants and cosmic rays affect energy bidget and affect the chemistry of the interstellar medium, using simulations and theory to connect models with observations.
 
-Hi! I am Ekaterina (Katya) I. Makarenko and I am a PhD student in Computational Astrophysics at the 1. Institute of Physics in the University of Cologne, Germany in the group of Prof. Stefanie Walch. 
-I do theory and simulations studying aspects of the life of massive stars on different time and space scales. 
 
 # Research interests
