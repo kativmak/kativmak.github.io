@@ -10,12 +10,11 @@ tags: [contact]
 #### Ekaterina Makarenko
 
 
-PhD student  
-I. Physikalisches Institut  
-Universität zu Köln  
-Zülpicher Straße 77  
-50937, Köln  
-Germany  
+
+Max Planck Institute for Extraterrestrial Physics
+Gießenbachstraße 1
+85748 Garching bei München
+Germany
 
 <i class="fa-solid fa-envelope"></i> makarenko at ph1.uni-koeln.de  
 [ORCID: 0000-0002-9694-1790](https://orcid.org/my-orcid?orcid=0000-0002-9694-1790)
